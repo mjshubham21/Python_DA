@@ -17,7 +17,7 @@ Python_DA/
 │ ├── Assignment Solutio files  
 ├── Json Classes/ # Lecture notebooks from JSON-based classes  
 │ ├── Lecture files 
-└── README.md # Project documentation
+├── README.md # Project documentation
 
 
 > ✅ Note:  
