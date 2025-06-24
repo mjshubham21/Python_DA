@@ -14,13 +14,9 @@ Python_DA/
 ├── Assignments/  
 │ ├── Questions/ # Contains raw assignment questions  
 │ └── Solutions/ # Jupyter Notebooks with solutions  
-│ ├── Assignment_1.ipynb  
-│ ├── Assignment_2.ipynb  
-│ └── Assignment_3.ipynb  
+│ ├── Assignment Solutio files  
 ├── Json Classes/ # Lecture notebooks from JSON-based classes  
-│ ├── OOPS.ipynb  
-│ ├── Python_1.ipynb  
-│ └── Python_2.ipynb  
+│ ├── Lecture files 
 └── README.md # Project documentation
 
 
