@@ -19,7 +19,6 @@ Python_DA/<br />
 │   ├── Lecture files<br />
 ├── README.md                    # Project documentation<br />
 
-
 > ✅ Note:  
 > The `.ipynb_checkpoints` folders were created by Jupyter Notebook but are not relevant in the current VS Code environment and can be ignored or deleted.
 
