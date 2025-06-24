@@ -10,14 +10,14 @@ This repository is dedicated to learning Python for Data Analytics through struc
 
 
 
-Python_DA/  
-├── Assignments/  
-│ ├── Questions/ # Contains raw assignment questions  
-│ └── Solutions/ # Jupyter Notebooks with solutions  
-│ ├── Assignment Solutio files  
-├── Json Classes/ # Lecture notebooks from JSON-based classes  
-│ ├── Lecture files 
-├── README.md # Project documentation
+Python_DA/<br />
+├── Assignments/<br />
+│   ├── Questions/                # Contains raw assignment questions<br />
+│   └── Solutions/               # Jupyter Notebooks with solutions<br />
+│       ├── Assignment Solution files<br />
+├── Json Classes/                # Lecture notebooks from JSON-based classes<br />
+│   ├── Lecture files<br />
+├── README.md                    # Project documentation<br />
 
 
 > ✅ Note:  
