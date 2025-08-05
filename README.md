@@ -15,7 +15,7 @@ Python_DA/<br />
 │   ├── Questions/                # Contains raw assignment questions<br />
 │   └── Solutions/               # Jupyter Notebooks with solutions<br />
 │       ├── Assignment Solution files<br />
-├── Json Classes/                # Lecture notebooks from JSON-based classes<br />
+├── Jason Classes/                # Lecture notebooks from JASON classes<br />
 │   ├── Lecture files<br />
 ├── README.md                    # Project documentation<br />
 
@@ -30,7 +30,6 @@ Python_DA/<br />
 - Arithmetic, comparison, and logical operations
 - Conditionals and loops
 - Object-Oriented Programming (OOP)
-- JSON handling and real-world data structures
 - Foundational data analytics logic
 
 ---
@@ -60,7 +59,7 @@ Python_DA/<br />
         
     -   `Assignments/Solutions/` for solved notebooks
         
-    -   `Json Classes/` for Python class notebooks
+    -   `Jason Classes/` for Python class notebooks
         
 4.  **Run any `.ipynb` file** to begin exploring!
     
